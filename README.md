@@ -31,7 +31,7 @@ print("Square root of the number:",new(a))
 ```
 
 ## Output:
-![output](squ.png)
+![output](sq.png)
 
 
 ## Result:
